@@ -25,7 +25,6 @@ Currently expanding into:
 * Built AML, Fraud Detection & Conduct Risk systems
 * Developed predictive models for financial crime detection
 * Designed scalable SAS-based data pipelines & data warehouse systems
-* Worked on Basel/IRRBB, NII/EVE simulation & risk analytics models
 * Delivered Machine Learning Proof of Concepts for enterprise use cases
 
 ---
@@ -38,36 +37,6 @@ Currently expanding into:
 * Statistical Analysis & Forecasting
 * Data Engineering & ETL Pipelines (SAS, SQL)
 * Financial Risk Analytics (Market & Liquidity Risk)
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, SQL, SAS
-**Machine Learning:** Scikit-learn, XGBoost
-**Deep Learning:** PyTorch, TensorFlow (learning & building)
-**Data Tools:** Pandas, NumPy, Spark (basic)
-**Visualization:** Power BI, Matplotlib, Seaborn, QlikSense
-**GenAI Stack (learning):** LangChain, LlamaIndex, OpenAI APIs
-
----
-
-## 📌 Featured Projects (In Progress)
-
-* 🔍 Fraud Detection System using Machine Learning
-* 📊 AML Transaction Monitoring & Anomaly Detection
-* 🧠 Credit Risk Scoring Model
-* 🤖 Financial GenAI Assistant (RAG-based chatbot)
-* 📉 Market Risk Analytics Dashboard
-
----
-
-## 🌱 Currently Learning
-
-* Deep Learning with PyTorch & TensorFlow
-* Large Language Models (LLMs)
-* AI Agents & Multi-Agent Systems
-* RAG architectures for enterprise AI
 
 ---
 
